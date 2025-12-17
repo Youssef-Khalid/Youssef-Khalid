@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Software Engineer | 🤖 AI Specialist
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Master's+in+Applied+AI;Full+Stack+Developer;Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Master's+in+Applied+AI" alt="Typing SVG" /></a>
 
 <br/>
 
