@@ -2,7 +2,9 @@
 
 # Hi, I'm Khalid Youssef 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="400" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="If you don't have the snake yet, use a standard 3D image here like the one below" />
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/artificial-intelligence-robot-8547434-6783850.png" width="400" />
 </div>
 
 ### 👨‍💻 Software Engineer | 🤖 AI Specialist
