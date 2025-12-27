@@ -62,10 +62,10 @@ I am a **Computer Science Engineering student** at **EMSI** and currently pursui
 
 <div align="center">
 
-<a href="https://github.com/Ykhali">
+<a href="https://github.com/Youssef-Khalid">
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=Youssef-Khalid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/Ykhali">
+<a href="https://github.com/Youssef-Khalid">
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Khalid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
